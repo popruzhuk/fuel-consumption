@@ -1,0 +1,1 @@
+Fuel Consumption is a practice-oriented project focused on JavaScript. It was created to strengthen my skills in working with dynamic functionality and user interaction on the frontend. The project includes multiple JS-driven features for calculations and responsive updates, showcasing my ability to write clean, practical code and apply JavaScript to solve real-world tasks.
